@@ -1,0 +1,5 @@
+Cheese_cake 135
+Chocolate_cake 120
+Strawberry_cheese_cake 140
+Vanilla_cake 105
+Brownie 30

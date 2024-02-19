@@ -1,0 +1,6 @@
+Milk_Tea 60
+Latte 60
+Cappuccino 60
+Mocha 60
+Black_cofee 60
+Tea 50
